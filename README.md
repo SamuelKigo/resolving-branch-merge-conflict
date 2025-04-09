@@ -1,1 +1,1 @@
-# resolving-branch-merge-conflict
+# Update resolving-branch-merge-conflict developer B story.
